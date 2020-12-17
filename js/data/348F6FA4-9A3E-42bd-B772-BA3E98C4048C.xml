@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.4.3.1.1:1", "", "CU000 - Register.RegistrarNuevoUsuario", "EARoot/EA4/EA3/EA1/EA1/EA151.htm", "185.png", "25", "0", "", "Sequence diagram0","{08E54A68-1698-4751-8D8D-DA85D12A91AF}");
+tocTab[tocTab.length] = new Array("0.4.3.1.1:2", "", ": Usuario", "EARoot/EA4/EA3/EA1/EA1/EA154.htm", "25.png", "E152", "0", "", "Object0","{E341C5EA-9E24-4512-A883-5990C66FF022}");
+tocTab[tocTab.length] = new Array("0.4.3.1.1:3", "", ": Usuario", "EARoot/EA4/EA3/EA1/EA1/EA155.htm", "25.png", "E153", "0", "", "Object0","{37066BFC-A70F-4204-B5A2-D486E32DF967}");
+tocTab[tocTab.length] = new Array("0.4.3.1.1:4", "", ": Voluntario", "EARoot/EA4/EA3/EA1/EA1/EA156.htm", "57.png", "E148", "0", "", "Sequence0","{66D73DA5-8328-424c-9524-12B1BD368DCF}");
+tocTab[tocTab.length] = new Array("0.4.3.1.1:5", "", ": List&lt;Usuariodetails&gt;", "EARoot/EA4/EA3/EA1/EA1/EA157.htm", "25.png", "E155", "0", "", "Object0","{390A3E8A-EA46-4ed6-A36B-F619DAD01F10}");
+tocTab[tocTab.length] = new Array("0.4.3.1.1:6", "", ": Register", "EARoot/EA4/EA3/EA1/EA1/EA158.htm", "25.png", "E150", "0", "", "Object0","{FD920B14-F979-4e34-89EE-47B2E69421F4}");

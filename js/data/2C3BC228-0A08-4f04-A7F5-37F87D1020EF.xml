@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.5.2.2:1", "", "Dominio", "EARoot/EA5/EA2/EA2/EA229.htm", "182.png", "16", "0", "", "CompositeStructure diagram0","{28DEB334-B987-49e0-B5FA-3678B88B9676}");
+tocTab[tocTab.length] = new Array("0.5.2.2:2", "", "Emparejamiento", "EARoot/EA5/EA2/EA2/EA232.htm", "10.png", "E119", "0", "", "Component0","{0723A5F5-3072-4c23-8BB6-F99607835C7A}");
+tocTab[tocTab.length] = new Array("0.5.2.2:3", "", "Registro", "EARoot/EA5/EA2/EA2/EA234.htm", "10.png", "E107", "0", "", "Component0","{D79CC6F7-5D75-4e05-8CC1-E21D5875811E}");
+tocTab[tocTab.length] = new Array("0.5.2.2:4", "", "IPersistence", "EARoot/EA5/EA2/EA2/EA235.htm", "111.png", "E117", "E107", "", "RequiredInterface0","{C5B4A1BF-F5D3-4bcc-923A-8F87B170F923}");
+tocTab[tocTab.length] = new Array("0.5.2.2:5", "", "IRegistro", "EARoot/EA5/EA2/EA2/EA236.htm", "112.png", "E118", "E107", "", "ProvidedInterface0","{1EA0B46C-97F1-4a2e-AA88-58FDACC329AA}");
+tocTab[tocTab.length] = new Array("0.5.2.2:6", "", "Registro", "EARoot/EA5/EA2/EA2/EA237.htm", "5.png", "E116", "E107", "", "Class0","{EB7B2EE9-ECE5-461a-8BEE-2CE34E7A07C5}");
+tocTab[tocTab.length] = new Array("0.5.2.2:7", "", "IEmparejamiento", "EARoot/EA5/EA2/EA2/EA238.htm", "112.png", "E120", "E119", "", "ProvidedInterface0","{93668427-6D76-432d-BADC-2139BB71B760}");
+tocTab[tocTab.length] = new Array("0.5.2.2:8", "", "IPersistence", "EARoot/EA5/EA2/EA2/EA239.htm", "111.png", "E121", "E119", "", "RequiredInterface0","{B8581EB1-B9D2-4fc9-B635-C8FD5F62BDFC}");

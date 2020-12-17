@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.4:1", "", "Modelo de Diseño", "EARoot/EA4/EA93.htm", "188.png", "18", "0", "", "Custom diagram0","{291E84D8-52C1-4dce-8231-28DB08E79FDB}");
+tocTab[tocTab.length] = new Array("0.4.1", "1", "Modelo de IU", "EARoot/EA4/EA1/EA103.htm", "4.png", "", "", "{0DA974E1-3163-46d2-B65C-8805051B6722}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2", "1", "Modelo Estructural", "EARoot/EA4/EA2/EA106.htm", "4.png", "", "", "{30B2B153-BD05-4ff9-B6A2-F283D072327F}", "Package");
+tocTab[tocTab.length] = new Array("0.4.3", "1", "Modelo Dinámico", "EARoot/EA4/EA3/EA141.htm", "4.png", "", "", "{4D3900F4-4474-4666-A0F3-DD5AC3D71205}", "Package");
+tocTab[tocTab.length] = new Array("0.4.4", "", "Modelo de Datos", "EARoot/EA4/EA4/EA179.htm", "4.png", "", "", "{084D4C07-66D1-4e5c-B208-6FEF4B138E4C}", "Package");

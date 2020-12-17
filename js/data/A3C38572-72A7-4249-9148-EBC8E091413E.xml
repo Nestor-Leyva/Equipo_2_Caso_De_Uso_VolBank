@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.7.2:1", "", "Topologia", "EARoot/EA7/EA2/EA276.htm", "179.png", "37", "0", "", "Deployment diagram0","{4D2D39B0-5CD2-423a-A831-C5FDD0AF4F9B}");
+tocTab[tocTab.length] = new Array("0.7.2:2", "", "&lt;&lt;pc cliente&gt;&gt; Cliente Web", "EARoot/EA7/EA2/EA279.htm", "9.png", "E192", "0", "", "Node0","{E17058E9-0276-4e27-8EEB-3AF0CC13F953}");
+tocTab[tocTab.length] = new Array("0.7.2:3", "", "&lt;&lt;pc server&gt;&gt; Servidor BD", "EARoot/EA7/EA2/EA280.htm", "9.png", "E193", "0", "", "Node0","{4BF1FCF5-59A3-45c3-8B9A-FAC1B19F292B}");
+tocTab[tocTab.length] = new Array("0.7.2:4", "", "&lt;&lt;pc server&gt;&gt; Servidor Web", "EARoot/EA7/EA2/EA281.htm", "9.png", "E194", "0", "", "Node0","{A1FEB58D-66DE-4702-8EE8-9F9E052F10AF}");
+tocTab[tocTab.length] = new Array("0.7.2:5", "", "Navigator", "EARoot/EA7/EA2/EA282.htm", "9.png", "E195", "E192", "", "Node0","{0CA2E867-EF16-4510-92CC-4543BF7373DA}");
+tocTab[tocTab.length] = new Array("0.7.2:6", "", "mySQL", "EARoot/EA7/EA2/EA283.htm", "9.png", "E196", "E193", "", "Node0","{C3652AFD-2349-443f-BB62-509FE3BB39A4}");
+tocTab[tocTab.length] = new Array("0.7.2:7", "", "Apache Server", "EARoot/EA7/EA2/EA284.htm", "9.png", "E197", "E194", "", "Node0","{CC26639D-6BFA-497d-BAB3-8FDE619E5097}");
+tocTab[tocTab.length] = new Array("0.7.2:8", "", "EJB Container", "EARoot/EA7/EA2/EA285.htm", "9.png", "E198", "E194", "", "Node0","{A81D1154-9D80-41c1-A442-CF371A65C24D}");

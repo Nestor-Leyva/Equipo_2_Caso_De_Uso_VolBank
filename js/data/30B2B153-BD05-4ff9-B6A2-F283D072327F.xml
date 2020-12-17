@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.4.2:1", "", "Arquitectura de Software", "EARoot/EA4/EA2/EA104.htm", "176.png", "17", "0", "", "Package diagram0","{30104471-D732-4f21-A8A1-28C8A7C0F3CF}");
+tocTab[tocTab.length] = new Array("0.4.2.1", "1", "DCD - Diagramas de interacción", "EARoot/EA4/EA2/EA1/EA115.htm", "4.png", "", "", "{29CBBC2B-CCF3-4098-8FD3-3EC991322252}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.2", "1", "UI", "EARoot/EA4/EA2/EA2/EA116.htm", "4.png", "", "", "{EEFC7746-279A-4355-8055-4D407AE142A6}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.3", "1", "Domain", "EARoot/EA4/EA2/EA3/EA121.htm", "4.png", "", "", "{897DEA04-E8A4-45f5-B5AD-B18EC84F7F0D}", "Package");
+tocTab[tocTab.length] = new Array("0.4.2.4", "1", "Technical Services", "EARoot/EA4/EA2/EA4/EA134.htm", "4.png", "", "", "{0186BB41-877C-450b-AAE6-CF7EDE5EA5F4}", "Package");
